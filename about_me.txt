@@ -1,3 +1,5 @@
 Introduce yourself in this file!
 
 Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hello everyone! I'm Kedi Jiang, a sophomore studying Data Science at LSA. A fun fact of me is that I would like to reincarnate into a squirrel in AA!	
